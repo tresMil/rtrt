@@ -1,0 +1,125 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLfh/5d97ba6f89.png" group-title="MEXICO",MX: TL NOVELAS
+http://tvpremiumhd.club/lista-gratuita/172220/tv/v/2376.ts
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLfh/5d97ba6f89.png" group-title="MEXICO",MX: TL NOVELAS2
+https://petu16.pedromo.me/live/tlnovelas/index.m3u8?token=MpfUvFfJo6EXlkJ3E93qrw&expires=1540168983
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reSse/a7ab00d18b.png" group-title="MEXICO",MX: DISTRITO COMEDIA
+http://tvpremiumhd.club/lista-gratuita/172220/tv/v/2142.ts
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reQVf/4dc9bf5f4d.png" group-title="CINE",DE PELICULA
+http://tvpremiumhd.club/lista-gratuita/172220/tv/v/1790.ts
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reQVf/4dc9bf5f4d.png" group-title="CINE",DE PELICULA CLASICO
+http://tvpremiumhd.club/lista-gratuita/172220/tv/v/2231.ts
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reQVf/4dc9bf5f4d.png" group-title="CINE",DE PELICULA PLUS
+http://tvpremiumhd.club/lista-gratuita/172220/tv/v/2149.ts
+
+#EXTINF:-1,Warner
+https://p25.quest123.top:8088/live/warnerperucho/playlist.m3u8?id=100570&wowzasessionid=668413483&pk=632fb61e8fa5eb20b37b99c48fcb5ca1683131525c1de6333cd0557d6cf45811
+
+#EXTINF:-1,DISTRITO COMEDIA
+http://ligatv.net:25461/live/premium20/20102018/317.m3u8
+
+#EXTINF:-1,TDN
+https://live-edge.pxstream.tv/loadbalance/57139146197223818441/chunks.m3u8?md5=oeSA7ftCzPjopi3H0_HpSA&expires=1540126410
+
+#EXTINF:-1,Las Estrellas
+http://latino-webtv.com:2082/livexd3/340_.m3u8
+
+#EXTINF:-1,Canal 5 HD
+http://latino-webtv.com:2082/livexd3/339_.m3u8
+
+#EXTINF:-1,Azteca 7
+http://latino-webtv.com:2082/livexd3/238_.m3u8
+
+#EXTINF:-1,Azteca Uno
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1,Azteca+ Plus
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1,FX
+http://158.69.199.149/LIVE/H02/FX/playlist.m3u8
+
+#EXTINF:-1,FXM
+http://158.69.199.149/LIVE/H02/FXMMX/playlist.m3u8
+
+#EXTINF:-1,GOLDEN
+http://158.69.199.149/LIVE/H02/GOLDEN-B/playlist.m3u8
+
+#EXTINF:-1,MTV
+http://158.69.199.149/LIVE/H02/MTV-B/playlist.m3u8
+
+#EXTINF:-1,SPACE
+http://54.39.146.230/LIVE/H02/SPACE/playlist.m3u8
+
+#EXTINF:-1,Ocho TV (Guadalajara) | FHD
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+
+#EXTINF:-1,TDN
+https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FYP6ZYI.png" group-title="CINE",DHE LATINO
+http://tvpremiumhd.club/lista-gratuita/172220/tv/v/1979.ts
+
+#EXTINF:-1 tvg-logo="http://puu.sh/x0Lfh/cb3dc80116.png" group-title="CINE",FOX PREMIUM CINEMA
+http://tvpremiumhd.club/lista-gratuita/172220/tv/v/1972.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="CINE",FOX PREMIUM CLASSIC
+http://tvpremiumhd.club/lista-gratuita/172220/tv/v/1970.ts
+
+#EXTINF:-1 tvg-logo="http://puu.sh/x0LhV/e129909584.png" group-title="CINE",FOX PREMIUM FAMILY
+http://tvpremiumhd.club/lista-gratuita/172220/tv/v/1973.ts
+
+#EXTINF:-1 tvg-logo="http://puu.sh/x0LiH/f26860a2c8.png" group-title="CINE",FOX PREMIUM MOVIES
+http://tvpremiumhd.club/lista-gratuita/172220/tv/v/1971.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dewvnrJ.png" group-title="CINE",FOX PREMIUM SERIES
+http://tvpremiumhd.club/lista-gratuita/172220/tv/v/1974.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eOMfXf6.png" group-title="CINE",FOX PREMIUM ACTION
+http://tvpremiumhd.club/lista-gratuita/172220/tv/v/2525.ts
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGZ1/47e0e1e430.png" group-title="DEPORTES",FOX SPORT 2
+http://tvpremiumhd.club/lista-gratuita/172220/tv/v/2382.ts
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLmr/bfa50e6e5c.png" group-title="DEPORTES",FOX SPORT 3
+http://tvpremiumhd.club/lista-gratuita/172220/tv/v/2121.ts
+
+#EXTINF:-1,****ARGENTINA****
+#EXTINF:-1,ESPN News
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1,ESPN 3
+http://latino-webtv.com:2082/livexd3/111_.m3u8
+
+#EXTINF:-1,Fox Sports Argentina
+http://latino-webtv.com:2082/livexd3/101_.m3u8
+
+#EXTINF:-1,Fox Sports 2 Argentina
+http://latino-webtv.com:2082/livexd3/103_.m3u8
+
+#EXTINF:-1,Fox Sports 3 Argentina
+http://latino-webtv.com:2082/livexd3/109_.m3u8
+
+#EXTINF:-1,UFC NETWORK
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+#EXTINF:-1,ARENA SPORT1
+http://46.40.5.99:8000/arena_1_high
+
+#EXTINF:-1,ARENA SPORT2
+http://46.40.5.99:8000/arena_2_high
+
+#EXTINF:-1,ARENA SPORT3
+http://46.40.5.99:8000/arena_3_high
+
+#EXTINF:-1,ARENA SPORT4
+http://46.40.5.99:8000/arena_4_high
